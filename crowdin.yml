@@ -12,5 +12,3 @@ files:
       - /zh-CN/
       - /CONTRIBUTING.md
     translation: /%two_letters_code%/%original_path%/%original_file_name%
-  - source: /assets/**/*
-    translation: /%two_letters_code%/%original_path%/%original_file_name%
