@@ -1,6 +1,6 @@
-# Introduction
+# Вступ
 
-Hello, and welcome to the Nushell project.
+Привіт. Ласкаво просимо до проєкту Nushell.
 The goal of this project is to take the Unix philosophy of shells, where pipes connect simple commands together, and bring it to the modern style of development.
 Thus, rather than being either a shell, or a programming language, Nushell connects both by bringing a rich programming language and a full-featured shell together into one package.
 
