@@ -1,8 +1,8 @@
 # Вступ
 
 Привіт. Ласкаво просимо до проєкту Nushell.
-The goal of this project is to take the Unix philosophy of shells, where pipes connect simple commands together, and bring it to the modern style of development.
-Thus, rather than being either a shell, or a programming language, Nushell connects both by bringing a rich programming language and a full-featured shell together into one package.
+Його мета — взяти філософію Unix-оболонок, де прості команди поєднуються каналами, і додати сучасних підходів до розробки.
+Тож замість того, щоб бути чи то багатофункціональною мовою програмування, чи то повноцінною оболонкою, Nushell поєднує в собі й те, й інше.
 
 Nu takes cues from a lot of familiar territory: traditional shells like bash, object based shells like PowerShell, gradually typed languages like TypeScript, functional programming, systems programming, and more. But rather than trying to be a jack of all trades, Nu focuses its energy on doing a few things well:
 
